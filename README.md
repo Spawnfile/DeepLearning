@@ -2,9 +2,10 @@ Deep Learning paper implementations with PyTorch
 
 - [ ] MNIST
   - [x] Simple NN Model
+  - [x] Simple CNN Model (with CIFAR10)
   - [x] Training Loop
-  - [ ] Save Model on Different Epochs
-  - [ ] Fine Tune Model
+  - [x] Save Model on Different Epochs
+  - [x] Fine Tune Model
   - [ ] Implementing TensorBoard
   
 - [ ] UNet
