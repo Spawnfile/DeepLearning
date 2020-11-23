@@ -1,6 +1,6 @@
 Deep Learning paper implementations with PyTorch
 
-- [ ] MNIST
+- [x] MNIST
   - [x] Simple NN Model
   - [x] Simple CNN Model (with CIFAR10)
   - [x] Training Loop
