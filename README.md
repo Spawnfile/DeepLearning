@@ -6,7 +6,7 @@ Deep Learning paper implementations with PyTorch
   - [x] Training Loop
   - [x] Save Model on Different Epochs
   - [x] Fine Tune Model
-  - [ ] Implementing TensorBoard
+  - [x] Implementing TensorBoard
   
 - [ ] UNet
   - [x] UNet Model
