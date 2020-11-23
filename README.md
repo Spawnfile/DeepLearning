@@ -1,5 +1,12 @@
 Deep Learning paper implementations with PyTorch
 
+- [ ] MNIST
+  - [x] Simple NN Model
+  - [x] Training Loop
+  - [ ] Save Model on Different Epochs
+  - [ ] Fine Tune Model
+  - [ ] Implementing TensorBoard
+  
 - [ ] UNet
   - [x] UNet Model
   - [ ] Training Loop
@@ -9,7 +16,7 @@ Deep Learning paper implementations with PyTorch
   - [ ] Implementing Backbone to Model
     - [ ] ResNet
     - [ ] AlexNet
-    
+
 - [ ] YOLO
 - [ ] ResNet
 - [ ] LeNet
