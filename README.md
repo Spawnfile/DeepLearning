@@ -11,14 +11,16 @@ Deep Learning paper implementations with PyTorch
 - [ ] UNet
   - [x] UNet Model
   - [ ] Training Loop
-  - [ ] Fine Tuning
+  - [ ] Fine Tuning with Backbone
   - [ ] Dataset Class
   - [ ] DataLoader Class
   - [ ] Implementing Backbone to Model
     - [ ] ResNet
     - [ ] AlexNet
 
+
 - [ ] YOLO
+- [x] VGG
 - [ ] ResNet
-- [ ] LeNet
-- [ ] AlexNet
+- [x] LeNet
+- [x] GoogleNet/Inception
