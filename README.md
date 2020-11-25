@@ -21,6 +21,6 @@ Deep Learning paper implementations with PyTorch
 
 - [ ] YOLO
 - [x] VGG
-- [ ] ResNet
+- [x] ResNet
 - [x] LeNet
 - [x] GoogleNet/Inception

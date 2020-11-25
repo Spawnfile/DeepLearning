@@ -97,7 +97,6 @@ class conv_block(nn.Module):
 
         return x
 
-
 if __name__ == '__main__':
     input_tensor  = torch.rand(3, 3, 224, 224)
     model = GoogLeNet()
