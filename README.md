@@ -17,6 +17,7 @@ Deep Learning paper implementations with PyTorch
   - [ ] Implementing Backbone to Model
     - [ ] ResNet
     - [ ] AlexNet
+  - [ ] Training with Medical MR Dataset 
 
 
 - [ ] YOLO
